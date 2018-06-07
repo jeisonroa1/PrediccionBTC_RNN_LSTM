@@ -1,7 +1,5 @@
 %% Implementación CNN para la predicción del precio del Bitcoin
-%% Jeison Ivan Roa Mora
-%% Diego Alejandro Barragan Vargas
-
+%% Jeison Roa 2018
 clear all; close all; clc;
 load ('data.mat');
 T1 = 8;                                                % Periodo Rápido
